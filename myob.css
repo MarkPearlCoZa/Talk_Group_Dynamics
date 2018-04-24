@@ -229,8 +229,7 @@ body {
  *********************************************/
 .reveal section img {
   margin: 0px 0px;
-  border: 0px solid #333;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+  }
 
 .reveal section img.plain {
   border: 0;
